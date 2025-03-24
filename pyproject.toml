@@ -5,3 +5,4 @@ description = "A portable memory protocol for AI agents — load it as standing 
 requires-python = ">=3.10"
 # clarify the control flow
 # drop an unused branch
+# avoid re-reading the config on every call
